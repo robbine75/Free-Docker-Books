@@ -1,3 +1,4 @@
 Docker[[:space:]]容器与容器云（第2版）.pdf filter=lfs diff=lfs merge=lfs -text
 Kubernetes权威指南：从Docker到Kubernetes实践全接触（第2版).pdf filter=lfs diff=lfs merge=lfs -text
 Docker[[:space:]]容器与容器云（第2版）.pdf[[:space:]]Kubernetes权威指南：从Docker到Kubernetes实践全接触（第2版).pdf filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
