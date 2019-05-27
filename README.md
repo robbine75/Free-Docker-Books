@@ -2,6 +2,8 @@
 
 This is my personal collection of free Docker books, feel free to share and read.
 
+百度网盘：https://pan.baidu.com/s/1BtpQ_Ve6TGa6r5An3Es2KQ
+
 ## List of Books
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
