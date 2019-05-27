@@ -78,4 +78,5 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Docker 容器与容器云（第2版） [[Download]](/book/Docker%20%E5%AE%B9%E5%99%A8%E4%B8%8E%E5%AE%B9%E5%99%A8%E4%BA%91%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 * Kubernetes权威指南：从Docker到Kubernetes实践全接触（第2版) [[Download]](/book/Kubernetes%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%9A%E4%BB%8EDocker%E5%88%B0Kubernetes%E5%AE%9E%E8%B7%B5%E5%85%A8%E6%8E%A5%E8%A7%A6%EF%BC%88%E7%AC%AC2%E7%89%88\).pdf)
 * Kubernetes in Action [[Download]](/book/Kubernetes%20in%20Action.pdf)
-* 每天5分钟玩转Docker容器技术 [[Download]](/book/每天5分钟玩转Docker容器技术.CloudMan\(详细书签\).pdf)
+* 每天5分钟玩转Docker容器技术 
+* Kubernetes in Action中文版
