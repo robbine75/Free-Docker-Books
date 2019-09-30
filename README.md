@@ -82,3 +82,4 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Kubernetes in Action [[Download]](/book/Kubernetes%20in%20Action.pdf)
 * 每天5分钟玩转Docker容器技术 
 * Kubernetes in Action中文版
+* Kubernetes权威指南 第4版.pdf
