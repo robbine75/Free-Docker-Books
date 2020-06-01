@@ -25,6 +25,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * DevOps with Kubernetes [[Download]](/book/DevOps%20with%20Kubernetes.azw3)
 * Docker - Creating Structured Containers [[Download]](/book/Docker%20-%20Creating%20Structured%20Containers.pdf)
 * Docker - Up & Running [[Download]](/book/Docker%20-%20Up%20%26%20Running.pdf)
+* Docker Up & Running 2nd - 2018 [[Download]](/book/Docker%20Up%20%26%20Running%202nd%20-%202018.pdf)
 * Docker - 从入门到实践 [[Download]](/book/Docker%20-%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
 * Docker and Kubernetes for Java Developers [[Download]](/book/Docker%20and%20Kubernetes%20for%20Java%20Developers.epub)
 * Docker Bootcamp [[Download]](/book/Docker%20Bootcamp.pdf)
@@ -74,9 +75,12 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * The DevOps 2.0 Toolkit [[Download]](/book/The%20DevOps%202.0%20Toolkit.pdf)
 * The DevOps 2.1 Toolkit - Docker Swarm [[Download]](/book/The%20DevOps%202.1%20Toolkit%20-%20Docker%20Swarm.pdf)
 * The Docker Book - James Turnbull - v17.03.0 [[Download]](/book/The%20Docker%20Book%20-%20James%20Turnbull%20-%20v17.03.0.pdf)
+* The Docker Book - 2018 [[Download]](/book/The%20Docker%20Book%20-%202018.pdf)
+* Docker Deep Dive - 2018 [[Download]](/book/Docker%20Deep%20Dive%20-%202018.pdf)
 * Troubleshooting Docker [[Download]](/book/Troubleshooting%20Docker.epub)
 * Using Docker [[Download]](/book/Using%20Docker.pdf)
 * What You Need to Know about Docker [[Download]](/book/What%20You%20Need%20to%20Know%20about%20Docker.pdf)
+* Practical Docker with Python - 2018 [[Download]](/book/Practical%20Docker%20with%20Python%20-%202018.pdf)
 * 第一本Docker书 [[Download]](/book/%E7%AC%AC%E4%B8%80%E6%9C%ACDocker%E4%B9%A6.pdf)
 * docker-doc-cn [[Download]](/book/docker-doc-cn.pdf)
 * Docker 容器与容器云（第2版）
@@ -85,3 +89,6 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * 每天5分钟玩转Docker容器技术 
 * Kubernetes in Action中文版
 * Kubernetes权威指南 第4版.pdf
+* 高性能Docker - 2016 [[Download]](/book/高性能Docker%20-%202016.pdf)
+* Docker全攻略-2016 [[Download]](/book/Docker全攻略-2016.pdf)
+* 循序渐进学Docker [[Download]](/book/循序渐进学Docker.pdf)
