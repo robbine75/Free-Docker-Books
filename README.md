@@ -81,6 +81,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Using Docker [[Download]](/book/Using%20Docker.pdf)
 * What You Need to Know about Docker [[Download]](/book/What%20You%20Need%20to%20Know%20about%20Docker.pdf)
 * Practical Docker with Python - 2018 [[Download]](/book/Practical%20Docker%20with%20Python%20-%202018.pdf)
+* Learn Docker - Fundamentals of Docker 18.x - 2018 [[Download]](/book/Learn%20Docker%20-%20Fundamentals%20of%20Docker%2018.x%20%20-%202018.pdf)
 * 第一本Docker书 [[Download]](/book/%E7%AC%AC%E4%B8%80%E6%9C%ACDocker%E4%B9%A6.pdf)
 * docker-doc-cn [[Download]](/book/docker-doc-cn.pdf)
 * Docker 容器与容器云（第2版）
